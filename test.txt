@@ -1,6 +1,0 @@
-first row123
-second row
-third row
-new_line
-another_new_line
-line_added_in_git_hub
